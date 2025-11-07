@@ -1,0 +1,3 @@
+When we talk about the command line we are referring to the $\large shell$.
+The shell is a program that takes keyboard commands and passes them to the operating system, in this case $\large Linux$.
+Most Linux distributions supply a shell program from $GNU$ project called `bash`. it's an acronym for $b$ourne-$a$gain $sh$ell. A reference to the fact that `bash` is an enhanced version of $sh$, the original Unix shell program written by Steve Bourne.

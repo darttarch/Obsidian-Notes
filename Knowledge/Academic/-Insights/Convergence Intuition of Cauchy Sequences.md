@@ -1,0 +1,1 @@
+after a certain point (the point where terms start coinciding) , no matter what two terms we pick, the distance between them is less than epsilon, and since we mentioned that "$\forall \varepsilon \gt 0$" it means if the distance is less that epsilon, then it's basically $0$.
